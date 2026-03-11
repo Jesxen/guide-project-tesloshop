@@ -1,6 +1,6 @@
 # TesloShop
 
-# 🎨 Frontend
+# Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
@@ -10,7 +10,7 @@ Frontend application built with **Angular**, styled with **TailwindCSS** and **D
 
 ---
 
-# 🚀 Getting Started
+#  Getting Started
 
 Follow these steps to run the project locally.
 
@@ -30,7 +30,7 @@ npm install -g @angular/cli
 
 ---
 
-# 📦 Installation
+# Installation
 
 Clone the repository and install dependencies:
 
@@ -60,7 +60,7 @@ The application will automatically reload if you change any source files.
 
 ---
 
-# 🏗️ Build
+# Build
 
 To build the project for production:
 
